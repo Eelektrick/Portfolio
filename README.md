@@ -8,7 +8,7 @@ This is my Portfolio.
 
 ## Link to the website
 
-My live deployment of my Portfolio is located here: <>
+My live deployment of my Portfolio is located here: <https://eelektrick.github.io/Portfolio/>
 
 ## My Journey with Portfolio
 
