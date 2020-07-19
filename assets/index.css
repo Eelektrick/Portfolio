@@ -1,5 +1,5 @@
 /* footer */
-/* footer{
+footer{
     bottom: 0%;
     width: 100%;
     clear: left;
@@ -8,7 +8,7 @@
     font-size: 1.1em;
     position: fixed;
     padding-top: .5em;
-} */
+}
 
 /* nav button */
 #tButton{
