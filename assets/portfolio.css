@@ -42,3 +42,8 @@ body{
     font-family: 'Lucida Bright', Geneva, Copperplate;
     color: white;
 }
+
+/* sizing of links */
+a{
+    font-size: 22px;
+}

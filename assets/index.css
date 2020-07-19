@@ -48,3 +48,8 @@ body{
 #size{
     font-size: 75px;
 }
+
+/* sizing of links */
+a{
+    font-size: 40px;
+}

@@ -45,3 +45,13 @@ body{
     font-family: 'Lucida Bright', Geneva, Copperplate;
     color: white;
 }
+
+/* fix some spacing at full size */
+.row{
+    padding-left: 150px;
+}
+
+/* sizing of links */
+a{
+    font-size: 22px;
+}
