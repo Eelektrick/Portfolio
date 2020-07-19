@@ -20,6 +20,15 @@ footer{
     font-size: 3.5em;
 }
 
+.container-fluid {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    position: fixed; 
+    justify-content: center;
+}
+
 /* html and body sizing for footer compared to content */
 html, body{
     min-height: 100%;
