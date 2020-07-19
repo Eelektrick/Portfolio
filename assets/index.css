@@ -10,6 +10,11 @@
     padding-top: .5em;
 } */
 
+/* nav button */
+#tButton{
+    border-color: white;
+}
+
 /* size of name in header */
 #name{
     font-size: 3.5em;
@@ -18,7 +23,6 @@
 /* html and body sizing for footer compared to content */
 html, body{
     min-height: 100%;
-    /* margin-bottom: 100px; */
     clear: both;
 }
 
@@ -35,7 +39,12 @@ body{
     height: 100%;
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     position: fixed;
     align-items: center;
     justify-content: center;
+}
+
+#size{
+    font-size: 75px;
 }

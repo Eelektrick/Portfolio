@@ -10,6 +10,11 @@ footer{
     padding-top: .5em;
 }
 
+/* nav button */
+#tButton{
+    border-color: white;
+}
+
 /* size of name in header */
 #name{
     font-size: 3.5em;
@@ -18,7 +23,6 @@ footer{
 /* html and body sizing for footer compared to content */
 html, body{
     min-height: 100%;
-    margin-bottom: 100px;
     clear: both;
 }
 
@@ -26,4 +30,15 @@ html, body{
 img{
     height: 500px;
     width: 500px;
+}
+
+/* background */
+body{
+    background: linear-gradient(to bottom right, rgb(7, 2, 78), rgb(1, 174, 255));
+}
+
+/* H1 Name */
+#fancy{
+    font-family: 'Lucida Bright', Geneva, Copperplate;
+    color: white;
 }
