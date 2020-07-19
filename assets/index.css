@@ -1,5 +1,5 @@
 /* footer */
-footer{
+/* footer{
     bottom: 0%;
     width: 100%;
     clear: left;
@@ -8,7 +8,7 @@ footer{
     font-size: 1.1em;
     position: fixed;
     padding-top: .5em;
-}
+} */
 
 /* size of name in header */
 #name{
@@ -18,6 +18,24 @@ footer{
 /* html and body sizing for footer compared to content */
 html, body{
     min-height: 100%;
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
     clear: both;
+}
+
+body{
+    background: linear-gradient(to bottom right, rgb(7, 2, 78), rgb(1, 174, 255));
+}
+
+/* H1 Name */
+#fancy{
+    font-family: 'Lucida Bright', Geneva, Copperplate;
+}
+
+.container-fluid {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
 }
