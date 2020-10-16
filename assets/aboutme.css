@@ -14,11 +14,6 @@ footer{
     border-color: white;
 }
 
-/* size of name in header */
-#name{
-    font-size: 3.5em;
-}
-
 .container-fluid {
     height: 100%;
     width: 100%;

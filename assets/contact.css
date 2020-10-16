@@ -14,11 +14,6 @@ footer{
     border-color: white;
 }
 
-/* size of name in header */
-#name{
-    font-size: 3.5em;
-}
-
 /* html and body sizing for footer compared to content */
 html, body{
     min-height: 100%;
