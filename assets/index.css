@@ -21,7 +21,8 @@ html, body{
 }
 
 body{
-    background: linear-gradient(to bottom right, rgb(7, 2, 78), rgb(3, 206, 233));
+    background-image: url(./images/background3.png);
+    /* background: linear-gradient(to bottom right, rgb(7, 2, 78), rgb(3, 206, 233)); */
 }
 
 /* H1 Name */

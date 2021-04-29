@@ -9,6 +9,11 @@ footer{
     padding-top: .5em;
 }
 
+/* nav background */
+#navBG{
+    background-image: url(./images/background3.png);
+}
+
 /* nav button */
 #tButton{
     border-color: white;
@@ -22,13 +27,15 @@ html, body{
 
 /* background */
 body{
-    background: linear-gradient(to bottom right, rgb(7, 2, 78), rgb(3, 206, 233));
+    background: lightgray !important;
 }
 
 /* H1 Name */
 #fancy{
     font-family: 'Lucida Bright', Geneva, Copperplate;
-    color: white;
+    color: white !important;
+    font-size: 40px;
+    text-decoration: none;
 }
 
 /* fix some spacing at full size */
