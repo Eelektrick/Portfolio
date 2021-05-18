@@ -1,6 +1,6 @@
 /* footer */
 footer{
-    bottom: 0;
+    bottom: 0%;
     width: 100%;
     clear: left;
     text-align: center;
@@ -20,7 +20,11 @@ footer{
 }
 
 /* html and body sizing for footer compared to content */
-html, body{
+html{
+    height: 100%;
+    clear: both;
+}
+body{
     min-height: 100%;
     clear: both;
 }
@@ -46,4 +50,9 @@ body{
 /* sizing of links */
 a{
     font-size: 22px;
+}
+
+/* sizing of p */
+p{
+    font-size: 1.5em;
 }
