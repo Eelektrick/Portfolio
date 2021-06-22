@@ -25,12 +25,6 @@ html, body{
     clear: both;
 }
 
-/* image sizing */
-img{
-    height: 500px;
-    width: 500px;
-}
-
 /* background */
 body{
     background: lightgray !important;
@@ -47,4 +41,29 @@ body{
 /* sizing of links */
 a{
     font-size: 22px;
+}
+
+/*Formatting solely for the portfolio page*/
+#portfolioContainer {
+    margin-bottom: 5%;
+    box-shadow: 0 0 10px; 
+    background-color: rgb(61, 82, 105);
+}
+
+.card {
+    margin-bottom: 5%;
+    box-shadow: 0 0 5px; 
+    background-color: rgb(180, 180, 180);
+}
+.card-img-top {
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactContainer{ 
+    box-shadow: 0 0 10px;
+    background-color: #ffffff;
 }
